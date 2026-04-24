@@ -22,6 +22,10 @@ Abaixo estão os pilares que sustentam a evolução e a documentação deste sis
 > * **Modelagem de Domínio:** Diagramas e artefatos que auxiliam na compreensão do problema.
 > * **Design de Solução:** Decisões de arquitetura (ADRs), diagramas de componentes e padrões (ex: Hexagonal) que definem como o software resolve o problema.
 
+## [Estudos](./estudos/)
+> **Diretório com projetos em Java feitos para aprendizado da linguagem**
+> Local onde armazeno tudo o que estou aprendendo sobre a linguagem para ter um domínio mínimo da linguagem Java.
+
 ### [Sistema Runner](./src/runner/README.md)
 > **Núcleo de Execução**
 > Onde o código ganha vida. Este diretório contém a implementação técnica do componente assinador, estruturado para ser modular, testável e eficiente.
