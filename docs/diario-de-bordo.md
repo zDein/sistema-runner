@@ -3,6 +3,15 @@
 Registro cronológico das atividades, decisões e evoluções do projeto.
 ---
 
+### [24/04/2026] - Aprendizado sobre listas e construtores
+| Esforço | Atividade/Contribuição Realizada | Colaboração |
+| :--- | :--- | :--- |
+| **5.0h** | Aprendendo sobre herança, polimorfismo, listas construtores | Individual |
+
+**Observações / Detalhamento:**
+> Aprendi a trabalhar com herança e polimorfismo (extends e interfaces). Também aprendi um pouco de ArrayList e o metodo constructor de uma classe;
+---
+
 ### [09/04/2026] - Entendendo sobre Fluxos de controle, operadores lógicos e entrada de dados
 | Esforço | Atividade/Contribuição Realizada | Colaboração |
 | :--- | :--- | :--- |
